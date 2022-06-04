@@ -14,6 +14,7 @@ void Ap(Arithmatic obj)
 		obj.common=2;
 		cout<<"Enter the value of n ";
 		cin>>obj.n;
+		//ggfkdg
 		obj.a_n=obj.a_1+((obj.n-1)*obj.common);
 		cout<<"a_"<<obj.n<<" = "<<obj.a_n<<endl;
 	}
